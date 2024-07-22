@@ -1,0 +1,14 @@
+{
+  "testName": "Add Template Load Test",
+  "endpoint": "/templates",
+  "method": "POST",
+  "body": {
+    "name": "Sample Template",
+    "content": "This is a sample template."
+  },
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "numberOfRequests": 1000,
+  "rampUpTime": 60
+}

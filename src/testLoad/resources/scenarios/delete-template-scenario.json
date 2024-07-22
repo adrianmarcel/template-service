@@ -1,0 +1,8 @@
+{
+  "testName": "Delete Template Load Test",
+  "endpoint": "/templates/{id}",
+  "method": "DELETE",
+  "numberOfRequests": 1000,
+  "rampUpTime": 60,
+  "dynamicId": true
+}

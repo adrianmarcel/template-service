@@ -1,0 +1,15 @@
+{
+  "testName": "Update Template Load Test",
+  "endpoint": "/templates/{id}",
+  "method": "PUT",
+  "body": {
+    "name": "Updated Template",
+    "content": "This is an updated sample template."
+  },
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "numberOfRequests": 1000,
+  "rampUpTime": 60,
+  "dynamicId": true
+}

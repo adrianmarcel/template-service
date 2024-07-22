@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "scenarios": [
+    "add-template-scenario.json",
+    "delete-template-scenario.json",
+    "search-template-scenario.json",
+    "update-template-scenario.json"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "id": "dc44f3fd-4f4e-4bcc-a0a6-cab7a355d217",
+      "name": "Template 1",
+      "createdAt": "2024-02-18T02:36:14.750672Z"
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 20,
+    "sort": [
+    ],
+    "offset": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": true,
+  "totalPages": 1,
+  "totalElements": 1,
+  "first": true,
+  "size": 20,
+  "number": 0,
+  "sort": [
+  ],
+  "numberOfElements": 1,
+  "empty": false
+}

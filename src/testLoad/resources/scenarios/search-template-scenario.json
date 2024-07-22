@@ -1,0 +1,13 @@
+{
+  "testName": "Search Template Load Test",
+  "endpoint": "/templates",
+  "method": "GET",
+  "params": {
+    "name": "Sample Template"
+  },
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "numberOfRequests": 1000,
+  "rampUpTime": 60
+}

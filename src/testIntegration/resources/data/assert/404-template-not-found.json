@@ -1,0 +1,10 @@
+{
+  "code": 404,
+  "message": "Not Found",
+  "errors": [
+    {
+      "code": "1000",
+      "message": "Template not found."
+    }
+  ]
+}
